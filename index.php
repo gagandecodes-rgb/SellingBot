@@ -767,3 +767,4 @@ if (isset($update["callback_query"])) {
 
 http_response_code(200);
 echo "OK";
+0
